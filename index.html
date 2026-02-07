@@ -1,443 +1,775 @@
 <!DOCTYPE html>
-<html lang="sq" itemscope itemtype="http://schema.org/WebPage">
+<html lang="sq">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui">
-    <title>PlayTV | Shiko TV Online - Dokumentarë, Sport, Filma, Seri, Fëmijë, Lajme, Muzikë.</title>
-    <meta name="description" content="Shiko TV Online - Dokumentarë, Sport, Filma, Seri, Fëmijë, Lajme, Muzikë.">
-    <meta name="author" content="Abraham Carvalho">
-    <meta name="generator" content="Shiko TV Online">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="PlayTV">
-    <meta property="og:description" content="Shiko TV Online - Dokumentarë, Sport, Filma, Seri, Fëmijë, Lajme, Muzikë.">
-    <meta property="og:url" content="http://pltv.com.br">
-    <meta property="og:image" content="http://pltv.com.br/assets/images/social.png">
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="PlayTV">
-    <meta property="twitter:description" content="Shiko TV Online - Dokumentarë, Sport, Filma, Seri, Fëmijë, Lajme, Muzikë.">
-    <meta property="twitter:url" content="http://pltv.com.br">
-    <meta property="twitter:image" content="http://pltv.com.br/assets/images/social.png">
-    <meta itemprop="name" content="PlayTV">
-    <meta itemprop="description" content="Shiko TV Online">
-    <meta itemprop="image" content="http://pltv.com.br/assets/images/social.png">
-    <link href="assets/images/touch/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-    <link href="assets/images/touch/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
-    <link href="assets/images/touch/favicon-194x194.png" rel="icon" type="image/png" sizes="194x194">
-    <link href="assets/images/touch/android-chrome-192x192.png" rel="icon" type="image/png" sizes="192x192">
-    <link href="assets/images/touch/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
-    <link href="assets/images/touch/safari-pinned-tab.svg" rel="mask-icon" color="#28324e">
-    <link href="manifest.json" rel="manifest">
-    <meta name="msapplication-TileColor" content="#28324e">
-    <meta name="msapplication-tap-highlight" content="no">
-    <meta name="msapplication-config" content="browserconfig.xml">
-    <meta name="msapplication-TileImage" content="assets/images/touch/mstile-144x144.png">
-    <meta name="theme-color" content="#28324e">
-    <meta name="application-name" content="PlayTV">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="format-detection" content="date=no">
-    <meta name="format-detection" content="email=no">
-    <meta name="format-detection" content="address=no">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-title" content="PlayTV">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
-    <link href="assets/stylesheets/application.css" rel="stylesheet">
-    <!-- Shto stile bazë nëse application.css mungon -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlayTV - Shiko TV Online Falas</title>
+    
+    <!-- CSS -->
     <style>
-        body { font-family: Arial, sans-serif; margin: 0; background: #1a1a2e; color: #fff; }
-        .hide { position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: rgba(0,0,0,0.8); padding: 15px 0; position: sticky; top: 0; z-index: 100; }
-        .header__content { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
-        .header__logo { width: 120px; height: 30px; fill: #fff; }
-        .header__search { position: relative; width: 300px; }
-        .header__search-input { width: 100%; padding: 10px 40px 10px 15px; border-radius: 25px; border: 2px solid #4cc9f0; background: rgba(255,255,255,0.1); color: #fff; }
-        .header__menu-list { display: flex; list-style: none; padding: 0; margin: 0; overflow-x: auto; gap: 10px; }
-        .header__menu-item { background: rgba(255,255,255,0.1); border: none; color: #fff; padding: 10px 20px; border-radius: 25px; cursor: pointer; }
-        .header__menu-item.active { background: #4cc9f0; color: #000; font-weight: bold; }
-        .channels { padding: 40px 0; }
-        .channels__list { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 25px; padding: 20px 0; }
-        .channel-card { background: rgba(255,255,255,0.05); border-radius: 15px; overflow: hidden; transition: transform 0.3s ease; cursor: pointer; border: 1px solid rgba(255,255,255,0.1); padding: 15px; }
-        .channel-card:hover { transform: translateY(-5px); border-color: #4cc9f0; }
-        .channel-card__image { font-size: 48px; text-align: center; margin-bottom: 10px; }
-        .channel-card__title { margin: 0 0 10px 0; font-size: 18px; }
-        .channel-card__category { display: inline-block; background: rgba(76,201,240,0.2); color: #4cc9f0; padding: 4px 12px; border-radius: 15px; font-size: 12px; margin-bottom: 10px; }
-        .channel-card__description { color: rgba(255,255,255,0.7); font-size: 14px; line-height: 1.4; margin: 0 0 10px 0; }
-        .play-button { background: #4cc9f0; color: #000; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-weight: bold; width: 100%; }
-        .remodal { background: rgba(0,0,0,0.9); border-radius: 20px; max-width: 800px; }
-        .modal__content { padding: 20px; text-align: center; }
-        #video-player { width: 100%; max-height: 70vh; border-radius: 10px; }
-        .footer { background: rgba(0,0,0,0.9); padding: 30px 0; text-align: center; margin-top: 50px; }
-        .footer__logo { width: 100px; height: 25px; fill: #fff; opacity: 0.7; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            color: white; 
+            min-height: 100vh;
+        }
+        
+        /* Header */
+        .header {
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(10px);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 2px solid #00d4ff;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #00d4ff;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .logo-icon {
+            font-size: 32px;
+        }
+        
+        .search-box {
+            position: relative;
+            width: 300px;
+        }
+        
+        .search-input {
+            width: 100%;
+            padding: 12px 45px 12px 15px;
+            border-radius: 25px;
+            border: 2px solid #00d4ff;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            font-size: 16px;
+            outline: none;
+            transition: all 0.3s;
+        }
+        
+        .search-input:focus {
+            background: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);
+        }
+        
+        .search-btn {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: #00d4ff;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        
+        /* Menu */
+        .categories {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding-bottom: 5px;
+        }
+        
+        .categories::-webkit-scrollbar {
+            height: 4px;
+        }
+        
+        .categories::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 2px;
+        }
+        
+        .categories::-webkit-scrollbar-thumb {
+            background: #00d4ff;
+            border-radius: 2px;
+        }
+        
+        .category-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            white-space: nowrap;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        
+        .category-btn:hover {
+            background: rgba(0, 212, 255, 0.2);
+            transform: translateY(-2px);
+        }
+        
+        .category-btn.active {
+            background: #00d4ff;
+            color: #000;
+            font-weight: bold;
+            box-shadow: 0 0 10px rgba(0, 212, 255, 0.5);
+        }
+        
+        /* Channels Grid */
+        .channels-section {
+            padding: 30px 0 50px;
+        }
+        
+        .channels-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 20px;
+        }
+        
+        .channel-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+        }
+        
+        .channel-card:hover {
+            transform: translateY(-5px);
+            border-color: #00d4ff;
+            box-shadow: 0 10px 25px rgba(0, 212, 255, 0.2);
+        }
+        
+        .channel-header {
+            padding: 20px 20px 15px;
+            text-align: center;
+        }
+        
+        .channel-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+            display: block;
+        }
+        
+        .channel-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #fff;
+        }
+        
+        .channel-category {
+            display: inline-block;
+            background: rgba(0, 212, 255, 0.2);
+            color: #00d4ff;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        
+        .channel-content {
+            padding: 0 20px 20px;
+        }
+        
+        .channel-description {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 14px;
+            line-height: 1.4;
+            margin-bottom: 15px;
+            height: 40px;
+            overflow: hidden;
+        }
+        
+        .play-btn {
+            width: 100%;
+            background: linear-gradient(45deg, #00d4ff, #0099ff);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .play-btn:hover {
+            background: linear-gradient(45deg, #0099ff, #00d4ff);
+            transform: scale(1.02);
+            box-shadow: 0 5px 15px rgba(0, 212, 255, 0.3);
+        }
+        
+        .play-btn i {
+            font-size: 18px;
+        }
+        
+        /* Video Modal */
+        .video-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 2000;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-content {
+            width: 90%;
+            max-width: 900px;
+            background: rgba(20, 20, 40, 0.95);
+            border-radius: 15px;
+            overflow: hidden;
+            border: 2px solid #00d4ff;
+            position: relative;
+        }
+        
+        .modal-header {
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .modal-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #00d4ff;
+        }
+        
+        .close-btn {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 24px;
+            cursor: pointer;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+        
+        .close-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: #ff4444;
+        }
+        
+        .video-container {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        #video-player {
+            width: 100%;
+            max-height: 70vh;
+            border-radius: 10px;
+            background: #000;
+        }
+        
+        .loading {
+            padding: 40px;
+            text-align: center;
+            color: #00d4ff;
+            font-size: 18px;
+        }
+        
+        .error-message {
+            padding: 40px;
+            text-align: center;
+            color: #ff4444;
+            font-size: 18px;
+        }
+        
+        .error-message button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #ff4444;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        /* Footer */
+        .footer {
+            background: rgba(0, 0, 0, 0.9);
+            padding: 30px 0;
+            text-align: center;
+            margin-top: 50px;
+            border-top: 2px solid #00d4ff;
+        }
+        
+        .footer-logo {
+            font-size: 24px;
+            color: #00d4ff;
+            margin-bottom: 10px;
+        }
+        
+        .copyright {
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 14px;
+        }
+        
+        /* Responsive */
         @media (max-width: 768px) {
-            .header__content { flex-direction: column; gap: 15px; }
-            .header__search { width: 100%; }
-            .channels__list { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }
+            .header-content {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .search-box {
+                width: 100%;
+            }
+            
+            .channels-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                gap: 15px;
+            }
+            
+            .categories {
+                gap: 8px;
+            }
+            
+            .category-btn {
+                padding: 8px 15px;
+                font-size: 13px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .channels-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .modal-content {
+                width: 95%;
+            }
         }
     </style>
-    <script type="application/ld+json">
-      {
-        "@context": "http://www.schema.org",
-        "@type": "WebSite",
-        "name": "PlayTV",
-        "alternateName": "PlayTV",
-        "url": "http://pltv.com.br"
-      }
-    </script>
 </head>
 <body>
-    <h1 class="hide">PlayTV - Shiko TV Online</h1>
+    <!-- Header -->
     <header class="header">
         <div class="container">
-            <div class="header__content">
-                <svg class="header__logo">
-                    <use xlink:href="#logo"></use>
-                </svg>
-                <div class="header__search">
-                    <input class="header__search-input" type="search" placeholder="Kërko kanale...">
-                    <svg class="header__search-icon">
-                        <use xlink:href="#icon-search"></use>
-                    </svg>
+            <div class="header-content">
+                <a href="#" class="logo">
+                    <span class="logo-icon">📺</span>
+                    <span>PLAYTV</span>
+                </a>
+                
+                <div class="search-box">
+                    <input type="text" class="search-input" id="searchInput" placeholder="Kërko kanale...">
+                    <button class="search-btn" id="searchBtn">🔍</button>
                 </div>
             </div>
-            <nav class="header__menu">
-                <ul class="header__menu-list">
-                    <li><button class="header__menu-item active" data-filter="*">Të gjitha</button></li>
-                    <li><button class="header__menu-item" data-filter="dokumentare">Dokumentarë</button></li>
-                    <li><button class="header__menu-item" data-filter="sport">Sport</button></li>
-                    <li><button class="header__menu-item" data-filter="filma">Filma & Seri</button></li>
-                    <li><button class="header__menu-item" data-filter="femije">Fëmijë</button></li>
-                    <li><button class="header__menu-item" data-filter="lajme">Lajme</button></li>
-                    <li><button class="header__menu-item" data-filter="muzike">Muzikë</button></li>
-                </ul>
+            
+            <nav class="categories">
+                <button class="category-btn active" data-category="all">🌍 Të Gjitha</button>
+                <button class="category-btn" data-category="documentarios">🎬 Dokumentarë</button>
+                <button class="category-btn" data-category="esportes">⚽ Sport</button>
+                <button class="category-btn" data-category="filmesseries">🎥 Filma & Seri</button>
+                <button class="category-btn" data-category="infantil">🧸 Fëmijë</button>
+                <button class="category-btn" data-category="jornalismo">📰 Lajme</button>
+                <button class="category-btn" data-category="musicas">🎵 Muzikë</button>
             </nav>
         </div>
     </header>
-    <main>
-        <section class="channels" aria-label="Lista e kanaleve">
-            <h2 class="hide">Kanale TV në dispozicion</h2>
-            <div class="container">
-                <div class="channels__list">
-                    <!-- Kanale do të ngarkohen këtu nga JavaScript -->
+
+    <!-- Channels Section -->
+    <main class="channels-section">
+        <div class="container">
+            <h1 style="text-align: center; margin-bottom: 30px; color: #00d4ff;">
+                🎬 Kanalet TV në Dispozicion
+            </h1>
+            
+            <div class="channels-grid" id="channelsContainer">
+                <!-- Kanale do të ngarkohen këtu -->
+                <div class="loading">
+                    ⏳ Po ngarkoj kanalet...
                 </div>
             </div>
-        </section>
-    </main>
-    <div class="remodal modal" data-remodal-id="modal" data-remodal-options="hashTracking: false, closeOnOutsideClick: false">
-        <div class="modal__close" data-remodal-action="close" aria-label="Mbyll">
-            <svg class="modal__close-icon">
-                <use xlink:href="#icon-close"></use>
-            </svg>
         </div>
-        <div class="modal__content" id="modal-content">
-            <!-- Video player do të vendoset këtu -->
+    </main>
+
+    <!-- Video Modal -->
+    <div class="video-modal" id="videoModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title" id="modalTitle">🎬 Duke Luajtur</div>
+                <button class="close-btn" id="closeModal">&times;</button>
+            </div>
+            
+            <div class="video-container">
+                <video id="video-player" controls playsinline>
+                    Shfletuesi juaj nuk mbështet video elementin.
+                </video>
+                <div class="loading" id="videoLoading">
+                    ⏳ Po ngarkoj transmetimin...
+                </div>
+                <div class="error-message" id="videoError" style="display: none;">
+                    ❌ Nuk mund të ngarkohet transmetimi.
+                    <br>
+                    <button onclick="retryPlayback()">🔄 Riprovoni</button>
+                </div>
+            </div>
         </div>
     </div>
 
-    <!-- SVG Ikonat -->
-    <svg xmlns="http://www.w3.org/2000/svg" class="hide">
-        <symbol id="logo" viewBox="0 0 44.24 10.41">
-            <path d="M1.44,5.93v2.2H0V1.75H2.25q2.41,0,2.41,2A2,2,0,0,1,4,5.34a2.74,2.74,0,0,1-1.85.59Zm0-3.08v2H2q1.15,0,1.15-1T2,2.86Z"/>
-            <path d="M9.4,8.13H5.6V1.75H7V7H9.4Z"/>
-            <path d="M16.07,8.13H14.5L14,6.71H11.78l-.45,1.42H9.77l2.32-6.38h1.7ZM13.72,5.61,13,3.47a2.79,2.79,0,0,1-.11-.57h0a2.41,2.41,0,0,1-.11.56l-.69,2.16Z"/>
-            <path d="M21,1.75,18.91,5.86V8.13H17.47V5.89l-2-4.14h1.64l1,2.38s.07.22.15.52h0a2.32,2.32,0,0,1,.14-.5l1-2.4Z"/>
-            <path d="M27,.87A4.34,4.34,0,0,1,30.57,7l.75.44A5.21,5.21,0,0,0,27,0ZM22.66,7A4.34,4.34,0,0,1,26.18.87V0a5.21,5.21,0,0,0-4.27,7.42Zm7.47.75a4.32,4.32,0,0,1-7,0l-.76.44a5.19,5.19,0,0,0,8.55,0Zm-3.52-6A3.48,3.48,0,1,0,30.09,5.2,3.47,3.47,0,0,0,26.61,1.72ZM25.75,6.5V3.89l2.6,1.37Z"/>
-            <path d="M37.8,2.92H36V8.13H34.54V2.92H32.73V1.75H37.8Z"/>
-            <path d="M44.24,1.75,42,8.13H40.41L38.24,1.75h1.55l1.33,4.44a3.16,3.16,0,0,1,.13.64h0a3.59,3.59,0,0,1,.14-.65l1.32-4.42Z"/>
-        </symbol>
-        <symbol id="icon-close" viewBox="0 0 15.642 15.642">
-            <path d="M8.882,7.821l6.541-6.541c0.293-0.293,0.293-0.768,0-1.061  c-0.293-0.293-0.768-0.293-1.061,0L7.821,6.76L1.28,0.22c-0.293-0.293-0.768-0.293-1.061,0c-0.293,0.293-0.293,0.768,0,1.061  l6.541,6.541L0.22,14.362c-0.293,0.293-0.293,0.768,0,1.061c0.147,0.146,0.338,0.22,0.53,0.22s0.384-0.073,0.53-0.22l6.541-6.541  l6.541,6.541c0.147,0.146,0.338,0.22,0.53,0.22c0.192,0,0.384-0.073,0.53-0.22c0.293-0.293,0.293-0.768,0-1.061L8.882,7.821z"/>
-        </symbol>
-        <symbol id="icon-search" viewBox="0 0 56.966 56.966">
-            <path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17s-17-7.626-17-17S14.61,6,23.984,6z"/>
-        </symbol>
-    </svg>
-
+    <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <svg class="footer__logo">
-                <use xlink:href="#logo"></use>
-            </svg>
-            <p style="color: rgba(255,255,255,0.5); margin-top: 10px; font-size: 14px;">© 2024 PlayTV</p>
+            <div class="footer-logo">📺 PLAYTV</div>
+            <div class="copyright">
+                © 2024 PlayTV - Të gjitha të drejtat e rezervuara
+                <br>
+                <small style="color: rgba(255,255,255,0.3);">Shiko TV Online falas</small>
+            </div>
         </div>
     </footer>
 
-    <!-- Bibliotekat kryesore - SHTUAR -->
+    <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <!-- M3U Parser - Shumë e rëndësishme! -->
-    <script src="https://cdn.jsdelivr.net/npm/m3u8-parser@latest/dist/m3u8-parser.min.js"></script>
 
-    <!-- Kodi kryesor i aplikacionit - I PËRDITËSUAR -->
+    <!-- Main JavaScript -->
     <script>
-    $(function() {
-        console.log('[PlayTV] Duke startuar...');
+        // ==================== KONFIGURIMI ====================
+        const PLAYLIST_URL = 'play.m3u'; // Rruga e skedarit M3U
+        let allChannels = [];
+        let currentHls = null;
+        let currentChannel = null;
 
-        // 1. NGARKO LISTËN M3U DHE SHFAQ KANALET
-        // ========================================
-        function loadPlaylist() {
-            $.get('play.m3u') // SIGUROHU që skedari 'play.m3u' ekziston në të njëjtin drejtor
-                .done(function(m3uText) {
-                    console.log('[PlayTV] Lista M3U u ngarkua.');
-                    try {
-                        const channels = parseM3UFile(m3uText);
-                        displayChannels(channels);
-                        setupFiltering(channels);
-                    } catch (error) {
-                        console.error('[PlayTV] Gabim në përpunimin e listës:', error);
-                        $('.channels__list').html('<p class="error">❌ Lista e kanaleve dështoi të ngarkohej.</p>');
-                    }
-                })
-                .fail(function() {
-                    console.error('[PlayTV] Skedari M3U nuk u gjet.');
-                    $('.channels__list').html('<p class="error">❌ Skedari "play.m3u" nuk u gjet. Krijo një skedar me këtë emër.</p>');
-                });
+        // ==================== FUNKSIONET KRYESORE ====================
+        
+        // 1. NGARKO LISTËN M3U
+        async function loadPlaylist() {
+            try {
+                console.log('🔄 Po ngarkoj listën e kanaleve...');
+                const response = await fetch(PLAYLIST_URL);
+                const m3uText = await response.text();
+                
+                allChannels = parseM3U(m3uText);
+                console.log(`✅ U gjetën ${allChannels.length} kanale`);
+                
+                displayChannels(allChannels);
+                setupEventListeners();
+                
+            } catch (error) {
+                console.error('❌ Gabim në ngarkimin e listës:', error);
+                $('#channelsContainer').html(`
+                    <div class="error-message" style="grid-column: 1/-1;">
+                        ❌ Nuk mund të ngarkohet lista e kanaleve!
+                        <br>
+                        Sigurohu që skedari 'play.m3u' të jetë në të njëjtin drejtor.
+                    </div>
+                `);
+            }
         }
 
-        // 2. FUNKSION PËR TË PËRPROCESUAR SKEDARIN M3U
-        // ============================================
-        function parseM3UFile(m3uText) {
-            const lines = m3uText.split('\n');
+        // 2. PARSEO SKEDARIN M3U
+        function parseM3U(m3uText) {
             const channels = [];
+            const lines = m3uText.split('\n');
             let currentChannel = {};
-
+            
             for (let i = 0; i < lines.length; i++) {
                 const line = lines[i].trim();
+                
                 if (line.startsWith('#EXTINF:')) {
-                    // Merr metadata nga linja EXTINF
+                    // Nxjerr të dhënat nga linja EXTINF
                     const info = line.substring(8);
                     const commaIndex = info.lastIndexOf(',');
                     const params = info.substring(0, commaIndex);
-                    const title = info.substring(commaIndex + 1);
-
-                    currentChannel = {
-                        title: title || 'Kanali pa emër',
-                        url: '',
-                        category: 'të-gjitha',
-                        logo: ''
-                    };
-
-                    // Nxjerr kategorinë nga parametrat
+                    const title = info.substring(commaIndex + 1).trim();
+                    
+                    // Nxjerr kategorinë
                     const groupMatch = params.match(/group-title="([^"]+)"/);
-                    if (groupMatch) currentChannel.category = slugify(groupMatch[1]);
-
+                    const category = groupMatch ? groupMatch[1] : 'të-gjitha';
+                    
+                    // Nxjerr logo
                     const logoMatch = params.match(/tvg-logo="([^"]+)"/);
-                    if (logoMatch) currentChannel.logo = logoMatch[1];
-
+                    const logo = logoMatch ? logoMatch[1] : '';
+                    
+                    currentChannel = {
+                        title: title.replace(/^[🔴📺🗞️🎭🧸🔬🏠☪️🌍🎬🎥⚽📰🎵🧸🔬🏘️🕌🌐📡]+/, '').trim(),
+                        originalTitle: title,
+                        category: category,
+                        logo: logo,
+                        url: ''
+                    };
+                    
                 } else if (line && !line.startsWith('#') && currentChannel.title) {
-                    // Kjo është URL-ja e transmetimit
-                    currentChannel.url = line;
+                    // Kjo është URL-ja e stream-it
+                    currentChannel.url = line.trim();
                     channels.push({...currentChannel});
                     currentChannel = {};
                 }
             }
-            console.log(`[PlayTV] U gjetën ${channels.length} kanale.`);
+            
             return channels;
         }
 
-        function slugify(text) {
-            return text.toLowerCase()
-                .replace(/[çc]/g, 'c').replace(/[ëe]/g, 'e')
-                .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-        }
-
         // 3. SHFAQ KANALET NË FAQE
-        // ========================
         function displayChannels(channels) {
+            if (channels.length === 0) {
+                $('#channelsContainer').html(`
+                    <div class="error-message" style="grid-column: 1/-1;">
+                        ❌ Nuk u gjetën kanale!
+                    </div>
+                `);
+                return;
+            }
+            
             let html = '';
+            
             channels.forEach((channel, index) => {
-                const categoryClass = channel.category || 'te-gjitha';
+                const icon = getChannelIcon(channel.title);
+                const categoryName = getCategoryName(channel.category);
+                
                 html += `
-                    <div class="channel-card ${categoryClass}" data-category="${categoryClass}">
-                        <div class="channel-card__image">${getChannelIcon(channel.title)}</div>
-                        <div class="channel-card__content">
-                            <h3 class="channel-card__title">${channel.title}</h3>
-                            <span class="channel-card__category">${getCategoryName(channel.category)}</span>
-                            <p class="channel-card__description">Shiko ${channel.title} live.</p>
-                            <button class="play-button" data-url="${channel.url}" data-title="${channel.title}">▶ Shiko Tani</button>
+                    <div class="channel-card" data-category="${channel.category}" data-index="${index}">
+                        <div class="channel-header">
+                            <span class="channel-icon">${icon}</span>
+                            <h3 class="channel-title">${channel.title}</h3>
+                            <span class="channel-category">${categoryName}</span>
+                        </div>
+                        <div class="channel-content">
+                            <p class="channel-description">
+                                Shiko ${channel.title} live në cilësi të lartë.
+                            </p>
+                            <button class="play-btn" onclick="playChannel(${index})">
+                                <i>▶</i> Shiko Tani
+                            </button>
                         </div>
                     </div>
                 `;
             });
-            $('.channels__list').html(html);
-            attachPlayEvents();
+            
+            $('#channelsContainer').html(html);
         }
 
-        function getChannelIcon(name) {
-            const icons = {
-                'top': '⭐', 'klan': '🔵', 'vizion': '🔴', 'rtsh': '🏛️',
-                'rtk': '📡', 'news': '📰', 'sport': '⚽', 'film': '🎬',
-                'muzik': '🎵', 'femij': '🧸', 'doc': '🌍'
-            };
-            const lower = name.toLowerCase();
-            for (const key in icons) {
-                if (lower.includes(key)) return icons[key];
-            }
-            return '📺';
-        }
-
-        function getCategoryName(slug) {
-            const names = {
-                'dokumentare': 'Dokumentarë', 'sport': 'Sport',
-                'filma': 'Filma & Seri', 'femije': 'Fëmijë',
-                'lajme': 'Lajme', 'muzike': 'Muzikë',
-                'te-gjitha': 'Të gjitha'
-            };
-            return names[slug] || slug;
-        }
-
-        // 4. LIDH BUTONAT "SHIKO TANI" ME FUNKSIONIN E LUJTJES
-        // ===================================================
-        function attachPlayEvents() {
-            $('.play-button').off('click').on('click', function() {
-                const url = $(this).data('url');
-                const title = $(this).data('title');
-                if (url) {
-                    playStream(url, title);
-                } else {
-                    alert('URL e transmetimit nuk është e disponueshme.');
-                }
-            });
-        }
-
-        // 5. FUNKSIONI KRYESOR PËR LUJTJEN E STREAM-IT
-        // ===========================================
-        window.currentHls = null; // Ruaj instancën aktuale të HLS
-
-        function playStream(streamUrl, channelTitle) {
-            console.log(`[PlayTV] Duke luajtur: ${channelTitle}`, streamUrl);
-
-            // Ndalo dhe pastro transmetimin e mëparshëm
-            if (window.currentHls) {
-                window.currentHls.destroy();
-                window.currentHls = null;
-            }
-
-            // Krijo elementin video në modal
-            const modalContent = $('#modal-content');
-            modalContent.html(`
-                <h3>${channelTitle}</h3>
-                <video id="video-player" controls playsinline></video>
-                <p style="color:#aaa; margin-top:10px;">Duke ngarkuar transmetimin...</p>
-            `);
-
-            const video = document.getElementById('video-player');
-            if (!video) {
-                console.error('[PlayTV] Elementi video nuk u krijua.');
+        // 4. LUJ KANALIN
+        function playChannel(index) {
+            const channel = allChannels[index];
+            if (!channel || !channel.url) {
+                alert('❌ URL e transmetimit nuk është e disponueshme!');
                 return;
             }
-
-            // Përdor HLS.js nëse mbështetet
+            
+            currentChannel = channel;
+            
+            // Shfaq modal
+            $('#modalTitle').text(`🎬 ${channel.title}`);
+            $('#videoModal').fadeIn();
+            $('#videoLoading').show();
+            $('#videoError').hide();
+            $('#video-player').hide();
+            
+            // Kontrollo nëse HLS mbështetet
+            const video = document.getElementById('video-player');
+            
             if (Hls.isSupported()) {
-                console.log('[PlayTV] Duke përdorur Hls.js');
-                const hls = new Hls({
+                console.log('🔧 Duke përdorur HLS.js');
+                
+                // Fshi instancën e mëparshme
+                if (currentHls) {
+                    currentHls.destroy();
+                    currentHls = null;
+                }
+                
+                // Krijo instancë të re
+                currentHls = new Hls({
                     enableWorker: true,
                     lowLatencyMode: true,
+                    backBufferLength: 30,
                     maxBufferLength: 30
                 });
-                window.currentHls = hls;
-
-                hls.loadSource(streamUrl);
-                hls.attachMedia(video);
-
-                hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    console.log('[PlayTV] Manifesti u përpunua, duke filluar luajtjen.');
+                
+                currentHls.loadSource(channel.url);
+                currentHls.attachMedia(video);
+                
+                currentHls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    console.log('✅ Manifesti u përpunua');
+                    $('#videoLoading').hide();
+                    $('#video-player').fadeIn();
                     video.play().catch(e => {
-                        console.warn('[PlayTV] Luajtja automatike u parandalua:', e);
-                        modalContent.find('p').text('Kliko butonin Play në video player.');
+                        console.log('ℹ️ Luajtja automatike u parandalua, kliko Play');
+                        $('#videoLoading').html('Kliko butonin Play për të filluar');
                     });
                 });
-
-                // Menaxho gabimet
-                hls.on(Hls.Events.ERROR, function(event, data) {
-                    console.error('[PlayTV] Gabim HLS:', data.type, data.details);
+                
+                currentHls.on(Hls.Events.ERROR, function(event, data) {
+                    console.error('❌ Gabim HLS:', data.type, data.details);
+                    
                     if (data.fatal) {
+                        $('#videoLoading').hide();
+                        $('#videoError').show();
+                        
                         switch(data.type) {
                             case Hls.ErrorTypes.NETWORK_ERROR:
-                                modalContent.find('p').html('❌ Probleme me rrjetin. <button onclick="location.reload()">Rifresko faqen</button>');
-                                hls.startLoad();
+                                console.log('🔁 Riprovim për shkak të gabimit në rrjet...');
+                                currentHls.startLoad();
                                 break;
                             case Hls.ErrorTypes.MEDIA_ERROR:
-                                hls.recoverMediaError();
+                                console.log('🔁 Ripërpiekje e media error...');
+                                currentHls.recoverMediaError();
                                 break;
                             default:
-                                modalContent.find('p').text('❌ Transmetimi nuk është në dispozicion.');
-                                hls.destroy();
+                                currentHls.destroy();
                                 break;
                         }
                     }
                 });
-
+                
             } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                // Fallback për Safari
-                console.log('[PlayTV] Duke përdorur HLS native (Safari)');
-                video.src = streamUrl;
+                // Përdor HLS native për Safari
+                console.log('🔧 Duke përdorur HLS native (Safari)');
+                video.src = channel.url;
                 video.addEventListener('loadedmetadata', function() {
+                    $('#videoLoading').hide();
+                    $('#video-player').fadeIn();
                     video.play();
                 });
             } else {
-                modalContent.find('p').text('❌ Shfletuesi juaj nuk mbështet këtë lloj transmetimi.');
+                $('#videoLoading').hide();
+                $('#videoError').show();
+                console.error('❌ Shfletuesi nuk mbështet HLS');
             }
-
-            // Hap dritaren modale
-            $('[data-remodal-id=modal]').remodal().open();
         }
 
-        // 6. FILTRIMI DHE KËRKIMI
-        // =======================
-        function setupFiltering(channels) {
-            // Filtro sipas kategorive
-            $('.header__menu-item').off('click').on('click', function() {
-                const filter = $(this).data('filter');
-                $('.header__menu-item').removeClass('active');
-                $(this).addClass('active');
+        // 5. RIPROVO LUJTJEN
+        function retryPlayback() {
+            if (currentChannel) {
+                playChannel(allChannels.indexOf(currentChannel));
+            }
+        }
 
-                if (filter === '*') {
-                    $('.channel-card').show();
+        // 6. FUNKSIONE NDIHMËSE
+        function getChannelIcon(title) {
+            const lower = title.toLowerCase();
+            if (lower.includes('top')) return '⭐';
+            if (lower.includes('klan')) return '🔵';
+            if (lower.includes('vizion')) return '🔴';
+            if (lower.includes('rtsh')) return '🏛️';
+            if (lower.includes('rtk')) return '📡';
+            if (lower.includes('big brother')) return '🔴';
+            if (lower.includes('sport')) return '⚽';
+            if (lower.includes('film')) return '🎬';
+            if (lower.includes('news') || lower.includes('lajme')) return '📰';
+            if (lower.includes('muzik')) return '🎵';
+            if (lower.includes('baby') || lower.includes('fëmij')) return '🧸';
+            if (lower.includes('discovery') || lower.includes('explorer')) return '🔬';
+            return '📺';
+        }
+
+        function getCategoryName(category) {
+            const names = {
+                'documentarios': 'Dokumentarë',
+                'esportes': 'Sport',
+                'filmesseries': 'Filma & Seri',
+                'infantil': 'Fëmijë',
+                'jornalismo': 'Lajme',
+                'musicas': 'Muzikë',
+                'të-gjitha': 'Të Gjitha'
+            };
+            return names[category] || category;
+        }
+
+        // 7. SETUP EVENT LISTENERS
+        function setupEventListeners() {
+            // Filtro sipas kategorive
+            $('.category-btn').click(function() {
+                $('.category-btn').removeClass('active');
+                $(this).addClass('active');
+                
+                const category = $(this).data('category');
+                const channels = $('.channel-card');
+                
+                if (category === 'all') {
+                    channels.fadeIn();
                 } else {
-                    $('.channel-card').hide();
-                    $(`.channel-card[data-category="${filter}"]`).show();
+                    channels.each(function() {
+                        const cat = $(this).data('category');
+                        $(this).toggle(cat === category);
+                    });
                 }
             });
-
+            
             // Kërko kanale
-            $('.header__search-input').on('input', function() {
+            $('#searchInput').on('input', function() {
                 const query = $(this).val().toLowerCase();
                 $('.channel-card').each(function() {
-                    const title = $(this).find('.channel-card__title').text().toLowerCase();
+                    const title = $(this).find('.channel-title').text().toLowerCase();
                     $(this).toggle(title.includes(query));
                 });
             });
+            
+            $('#searchBtn').click(function() {
+                $('#searchInput').focus();
+            });
+            
+            // Mbyll modal
+            $('#closeModal').click(function() {
+                $('#videoModal').fadeOut();
+                if (currentHls) {
+                    currentHls.destroy();
+                    currentHls = null;
+                }
+                const video = document.getElementById('video-player');
+                video.pause();
+                video.src = '';
+            });
+            
+            // Mbyll modal me ESC
+            $(document).keydown(function(e) {
+                if (e.key === 'Escape' && $('#videoModal').is(':visible')) {
+                    $('#closeModal').click();
+                }
+            });
+            
+            // Mbyll modal duke klikuar jashtë
+            $('#videoModal').click(function(e) {
+                if (e.target === this) {
+                    $('#closeModal').click();
+                }
+            });
         }
 
-        // 7. STARTIMI I APLIKACIONIT
-        // ==========================
-        loadPlaylist();
-
-        // Mbyll player-in kur modal mbyllet
-        $(document).on('closed', '.remodal', function() {
-            if (window.currentHls) {
-                window.currentHls.destroy();
-                window.currentHls = null;
-            }
-            const video = document.getElementById('video-player');
-            if (video) video.pause();
+        // 8. STARTIMI I APLIKACIONIT
+        $(document).ready(function() {
+            console.log('🚀 PlayTV po starton...');
+            loadPlaylist();
         });
-    });
-    </script>
-
-    <!-- Analitikat (mund të hiqet) -->
-    <script>
-        (function(i,s,o,g,r,a,m){
-            i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
-            a=s.createElement(o), m=s.getElementsByTagName(o)[0];
-            a.async=1; a.src=g; m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-81831559-2', 'auto');
-        ga('send', 'pageview');
     </script>
 </body>
 </html>
