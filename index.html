@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PlayTV - Shiko TV Online Falas</title>
     
-    <!-- CSS -->
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
@@ -16,7 +15,6 @@
             padding: 20px;
         }
         
-        /* Header */
         .header {
             background: rgba(0, 0, 0, 0.9);
             padding: 20px;
@@ -38,7 +36,6 @@
             gap: 15px;
         }
         
-        /* Menu */
         .categories {
             display: flex;
             flex-wrap: wrap;
@@ -70,7 +67,6 @@
             box-shadow: 0 5px 20px rgba(0, 212, 255, 0.4);
         }
         
-        /* Channels Grid */
         .channels-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -156,7 +152,6 @@
             box-shadow: 0 8px 20px rgba(0, 212, 255, 0.4);
         }
         
-        /* Loading Animation */
         .loading {
             text-align: center;
             padding: 50px;
@@ -178,7 +173,6 @@
             100% { transform: rotate(360deg); }
         }
         
-        /* Streaming Instructions */
         .instructions {
             background: rgba(0, 0, 0, 0.8);
             padding: 30px;
@@ -211,7 +205,6 @@
             border: 1px dashed #00d4ff;
         }
         
-        /* Test Button */
         .test-btn {
             background: linear-gradient(45deg, #ff4444, #ff8800);
             color: white;
@@ -229,7 +222,6 @@
             box-shadow: 0 5px 15px rgba(255, 68, 68, 0.3);
         }
         
-        /* Footer */
         .footer {
             text-align: center;
             padding: 30px;
@@ -238,7 +230,6 @@
             border-top: 1px solid rgba(255, 255, 255, 0.1);
         }
         
-        /* Responsive */
         @media (max-width: 768px) {
             .channels-grid {
                 grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -273,7 +264,7 @@
     </div>
 
     <!-- Instructions -->
-    <div class="instructions">
+    <div class="instructions" id="instructions">
         <h3>⚠️ IMPORTANTE: Si të Shikoni Stream-et</h3>
         <ol>
             <li><strong>Stream-et punojnë VETËM në HTTP</strong> (jo në GitHub Pages HTTPS)</li>
@@ -283,8 +274,8 @@
                 </div>
             </li>
             <li><strong>Testo një stream:</strong>
-                <button class="test-btn" onclick="testStream(3)">🧪 Testo TOP CHANNEL</button>
-                <button class="test-btn" onclick="testStream(1427113)">🧪 Testo BIG BROTHER</button>
+                <button class="test-btn" onclick="window.testStream(3)">🧪 Testo TOP CHANNEL</button>
+                <button class="test-btn" onclick="window.testStream(1427113)">🧪 Testo BIG BROTHER</button>
             </li>
         </ol>
     </div>
@@ -409,7 +400,7 @@
                         <p style="text-align: center; color: rgba(255,255,255,0.7); margin: 10px 0;">
                             ${channel.description}
                         </p>
-                        <button class="play-btn" onclick="playStream(${channel.streamId}, '${channel.title}')">
+                        <button class="play-btn" onclick="window.playStream(${channel.streamId}, '${channel.title.replace(/'/g, "\\'")}')">
                             <span style="font-size: 20px;">▶</span> SHIKO LIVE
                         </button>
                     </div>
@@ -421,8 +412,8 @@
             console.log('✅ Kanalet u ngarkuan!');
         }
 
-        // 2. LUJ STREAM
-        function playStream(streamId, channelName) {
+        // 2. LUJ STREAM - E bëjmë GLOBAL
+        window.playStream = function(streamId, channelName) {
             console.log(`🎬 Duke u përpjekur të luaj: ${channelName} (ID: ${streamId})`);
             
             // Krijo URL-në e stream-it
@@ -563,17 +554,17 @@
                         // Alternative: VLC protocol
                         document.querySelector('.info').innerHTML += 
                             '<p><strong>🎬 Alternativë:</strong> ' +
-                            '<a href="vlc://' + streamUrl + '">Hap në VLC Player</a></p>';
+                            '<a href="vlc://' + streamUrl.replace('http://', '') + '">Hap në VLC Player</a></p>';
                     <\/script>
                 </body>
                 </html>
             `);
             
             newWindow.document.close();
-        }
+        };
 
-        // 3. TEST STREAM
-        function testStream(streamId) {
+        // 3. TEST STREAM - E bëjmë GLOBAL
+        window.testStream = function(streamId) {
             const testUrl = `http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=${streamId}&extension=m3u8`;
             
             console.log('🧪 Testimi i stream-it:', testUrl);
@@ -600,7 +591,7 @@
                 </body>
                 </html>
             `);
-        }
+        };
 
         // 4. FUNKSIONE NDIHMËSE
         function getCategoryName(category) {
@@ -637,27 +628,8 @@
             });
         }
 
-        // 5. STARTIMI
-        document.addEventListener('DOMContentLoaded', function() {
-            console.log('🚀 PlayTV po starton...');
-            loadChannels();
-            
-            // Testo nëse është HTTPS
-            if (window.location.protocol === 'https:') {
-                document.querySelector('.instructions').innerHTML += `
-                    <div style="background: #ff4444; color: white; padding: 15px; border-radius: 10px; margin-top: 15px;">
-                        <strong>⚠️ KY VERSION NUK FUNKSIONON KËTU!</strong>
-                        <p>Stream-et punojnë vetëm në HTTP. Shkarkoni këtë faqe dhe hapeni në kompjuter.</p>
-                        <button onclick="downloadPage()" style="background: white; color: #ff4444; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
-                            ⬇️ SHKARKO PËR PËRDORIM LOKAL
-                        </button>
-                    </div>
-                `;
-            }
-        });
-
-        // 6. SHKARKO PËR PËRDORIM LOKAL
-        function downloadPage() {
+        // 5. SHKARKO PËR PËRDORIM LOKAL
+        window.downloadPage = function() {
             // Krijo një blob me të gjithë kodin
             const fullHTML = document.documentElement.outerHTML;
             const blob = new Blob([fullHTML], { type: 'text/html' });
@@ -673,7 +645,26 @@
             URL.revokeObjectURL(url);
             
             alert('✅ Faqja u shkarkua! Hapni PlayTV.html në kompjuter.');
-        }
+        };
+
+        // 6. STARTIMI
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('🚀 PlayTV po starton...');
+            loadChannels();
+            
+            // Testo nëse është HTTPS
+            if (window.location.protocol === 'https:') {
+                document.getElementById('instructions').innerHTML += `
+                    <div style="background: #ff4444; color: white; padding: 15px; border-radius: 10px; margin-top: 15px;">
+                        <strong>⚠️ KY VERSION NUK FUNKSIONON KËTU!</strong>
+                        <p>Stream-et punojnë vetëm në HTTP. Shkarkoni këtë faqe dhe hapeni në kompjuter.</p>
+                        <button onclick="window.downloadPage()" style="background: white; color: #ff4444; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
+                            ⬇️ SHKARKO PËR PËRDORIM LOKAL
+                        </button>
+                    </div>
+                `;
+            }
+        });
     </script>
 </body>
 </html>
