@@ -1,496 +1,594 @@
 #EXTM3U
-===============================================================================================
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BIG BROTHER VIP ALBANIA/BIG BROTHER VIP ALBANIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ BIG BROTHER KOSOVA VIP 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=1427113&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BIG BROTHER VIP ALBANIA/BIG BROTHER VIP ALBANIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ BIG BROTHER KOSOVA VIP 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=1427114&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BIG BROTHER VIP ALBANIA/BIG BROTHER VIP ALBANIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ BIG BROTHER ALBANIA VIP 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=1492762&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BIG BROTHER VIP ALBANIA/BIG BROTHER VIP ALBANIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ BIG BROTHER ALBANIA VIP 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=1492763&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TOPCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ TOP CHANNEL 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=3&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TOPCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ TOP CHANNEL HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=5&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/VIZIONPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ VIZION PLUS 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=6&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/VIZIONPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ VIZION PLUS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=8&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVKLAN.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN TV 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=9&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVKLAN.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN TV HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=11&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLANKOSOVA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN KOSOVA 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=12&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLANKOSOVA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN KOSOVA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=14&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KTVKOHAVISION.png" group-title="┃AL┃ ALBANIA",┃AL┃ KTV KOHAVISION 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=15&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KTVKOHAVISION.png" group-title="┃AL┃ ALBANIA",┃AL┃ KTV KOHAVISION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=17&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Dukagjini_RTV_Logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ DUKAGJINI 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=18&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Dukagjini_RTV_Logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ DUKAGJINI HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=20&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=21&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=23&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANAL10.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANAL 10 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=24&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANAL10.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANAL 10 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=25&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ATV 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=36&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ATV HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=37&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 1 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=26&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=27&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 2 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=28&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=29&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 3 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=30&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 3 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=31&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 4 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=32&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALRTK.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTK 4 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=33&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH 1 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=65&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=66&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=67&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH 3
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=68&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH24.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH 24 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=69&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 PLUS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=63&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 MIX HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=64&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 POPULLORE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=62&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FIRSTCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FIRST CHANNEL 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=34&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FIRSTCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FIRST CHANNEL HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=35&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SHENJATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ SHENJA 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=55&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SHENJATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ SHENJA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=56&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ERATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ERA TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=58&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVKOHA.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV KOHA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=61&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVGLOBI.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV GLOBI
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=59&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TV2GOSTIVAR.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV2 GOSTIVAR HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=60&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO SERIALE ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=57&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALSATTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ALSAT M 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=38&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALSATTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ALSAT M HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=39&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALSATTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ALSAT M
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=40&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DIZITDC.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIZI TDC 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=41&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DIZITDC.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIZI TDC HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=42&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANALDDRAMA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANAL D DRAMA 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=43&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANALDDRAMA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANAL D DRAMA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=44&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING TURKISH STORIES 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=676116&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 MACEDONIA 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=45&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 MACEDONIA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=46&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLAN%20MACEDONIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN MACEDONIA 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=47&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLAN%20MACEDONIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN MACEDONIA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=48&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLANPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN PLUS 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=49&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KLANPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN PLUS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=50&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SERIES 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=51&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SERIES HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=52&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING 3+ HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=53&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING 3+
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=54&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TEVE1.png" group-title="┃AL┃ ALBANIA",┃AL┃ TËVË 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=384668&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO LAJME ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=70&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/T7.png" group-title="┃AL┃ ALBANIA",┃AL┃ T7 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=71&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/T7.png" group-title="┃AL┃ ALBANIA",┃AL┃ T7 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=73&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ARTATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ARTA NEWS 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=74&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ARTATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ ARTA NEWS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=75&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANALI7.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANALI 7
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=76&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ABC-News-Logo-2007.png" group-title="┃AL┃ ALBANIA",┃AL┃ ABC NEWS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=662922&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Ora-news.png" group-title="┃AL┃ ALBANIA",┃AL┃ ORA NEWS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=78&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVKLAN.png" group-title="┃AL┃ ALBANIA",┃AL┃ KLAN NEWS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=79&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TOPNEWS.png" group-title="┃AL┃ ALBANIA",┃AL┃ TOP NEWS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=82&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FOXNEWS.png" group-title="┃AL┃ ALBANIA",┃AL┃ FAX NEWS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=81&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALNEWS24.png" group-title="┃AL┃ ALBANIA",┃AL┃ NEWS 24
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=83&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH GJIROKASTRA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=753577&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/EURONEWS.png" group-title="┃AL┃ ALBANIA",┃AL┃ EURONEWS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=85&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/A2CNN.png" group-title="┃AL┃ ALBANIA",┃AL┃ A2 CNN
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=80&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SCANTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ SCAN TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=86&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/REPORTTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ REPORT TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=84&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SYRITV.png" group-title="┃AL┃ ALBANIA",┃AL┃ SYRI TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=254&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Logo_of_MRT_2_(2012-).svg.png" group-title="┃AL┃ ALBANIA",┃AL┃ MRT 2
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=87&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO DIGITALB ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=88&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KANALI 20.png" group-title="┃AL┃ ALBANIA",┃AL┃ KANALI 20
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=838766&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM GOLD 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=89&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM GOLD HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212425&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMMAX.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM MAX 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=90&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMMAX.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM MAX HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212426&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMHITS.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM HITS 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=91&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMHITS.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM HITS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212427&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Aksion_AL_logo%20(1).png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM AKSION 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=92&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Aksion_AL_logo%20(1).png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM AKSION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212428&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMFAMILY.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM FAMILY 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=96&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMFAMILY.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM FAMILY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212429&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Komedi_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM KOMEDI 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=94&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Komedi_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM KOMEDI HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212430&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Thriller_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM THRILLER 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=93&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Thriller_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM THRILLER HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212431&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMDRAME.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM DRAMË 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=95&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMDRAME.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM DRAMË HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212440&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMAUTOR.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM AUTOR 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=97&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMAUTOR.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM AUTOR HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212449&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Stinet_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM STINET 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=98&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Stinet_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM STINET HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212450&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALFILMTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM T 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=99&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALFILMTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILM T HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212451&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DigitAlb_EuroFilm_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ EUROFILM 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=100&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DigitAlb_EuroFilm_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ EUROFILM HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212452&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO TRING ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=105&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING ACTION 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=106&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING ACTION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212453&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SUPER 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=107&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SUPER HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212454&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING COMEDY 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=108&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING COMEDY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212455&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING FAMILY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=231166&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING FANTASY 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=109&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING FANTASY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212456&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING NOVELAS 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=15345&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING NOVELAS HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212457&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING LIFE 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=110&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING LIFE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212458&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SMILE 4k
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=111&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SMILE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212459&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SHQIP 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=112&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SHQIP HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212460&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING COLLECTION 4K
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212462&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING COLLECTION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212463&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING CLASSIC HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212461&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING ORIGINAL
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=384916&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FoxCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FOX CHANNEL 
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=268&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FoxCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FOX MOVIES HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212474&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FoxCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FOX CRIME HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=212475&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FoxCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ FOX LIFE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=269&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO ART MOTION ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=113&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALARTKINO.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART KINO 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=114&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALARTKINO.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART KINO 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=115&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALARTKINO.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART KINO 3 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=116&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALARTKINO.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART EPISODE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=117&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALARTKINO.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART PRIME HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=118&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO KUJTESA ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=122&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILMBOX PREMIUM HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=129&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILMBOX EXTRA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=131&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILMBOX PLUS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=132&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="┃AL┃ ALBANIA",┃AL┃ FILMBOX ARTHOUSE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=130&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SkyGALAXY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY AKSION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=123&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SKYMAX.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY MAX
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=127&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SKYCOMEDY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY KOMEDI
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=124&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SkyGALAXY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY DRAME
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=125&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SkyGALAXY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY NOVELA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=126&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SkyGALAXY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY 7
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=128&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TEVE1.png" group-title="┃AL┃ ALBANIA",┃AL┃ TËVË AKSION
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677296&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIGI GOLD HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189265&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIGI GOLD 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189266&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIGI GOLD 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189267&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIGI GOLD 3 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189268&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DIGI GOLD 4 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189269&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="┃AL┃ ALBANIA",┃AL┃ E PREMIERE 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189275&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="┃AL┃ ALBANIA",┃AL┃ E PREMIERE 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189276&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="┃AL┃ ALBANIA",┃AL┃ E PREMIERE 3 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189277&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="┃AL┃ ALBANIA",┃AL┃ E PREMIERE 4 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189278&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E ACTION HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189279&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E THRILLER HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189280&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E COMEDY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189282&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E FAMILY HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189287&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E DRAMA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189284&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E ROMANCE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189283&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E SCI-FI HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189281&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E DARK HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189285&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E WESTERN HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189286&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ E FILMA24 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189274&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ CINE 1 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189270&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ CINE 2 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189271&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ CINE 3 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189272&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="┃AL┃ ALBANIA",┃AL┃ CINE 4 HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189273&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO FËMIJË ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=192&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CINEKIDS.png" group-title="┃AL┃ ALBANIA",┃AL┃ E KIDS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677275&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALRTSHSHKOLLE.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH SHKOLLE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677278&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Bang_Bang_Albania.png" group-title="┃AL┃ ALBANIA",┃AL┃ BANG BANG
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=193&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Cufo_TV.png" group-title="┃AL┃ ALBANIA",┃AL┃ CUFO
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=194&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRINGTRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING TRING
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=195&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING KIDS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=196&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CINEKIDS.png" group-title="┃AL┃ ALBANIA",┃AL┃ BUBBLE TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677279&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/CINEKIDS.png" group-title="┃AL┃ ALBANIA",┃AL┃ TOM & JERRY
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677276&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING SOFIA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=199&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DUCKTVHD.png" group-title="┃AL┃ ALBANIA",┃AL┃ DUCK TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677277&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/JUNIOR.png" group-title="┃AL┃ ALBANIA",┃AL┃ JUNIOR
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=200&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TIPTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ TIP TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=198&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ARTPRINCEKIDS.png" group-title="┃AL┃ ALBANIA",┃AL┃ ART PRINCE KIDS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=197&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/CartoonNETWORK.png" group-title="┃AL┃ ALBANIA",┃AL┃ CARTOON NETWORK
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=203&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Boomerang_tv_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ BOOMERANG
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=202&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTV21.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV21 JUNIOR
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=201&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSHFEMIJE.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH FEMIJË
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=204&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BabyTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ BABY TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=207&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO DOKU ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=219&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/EXPLORERShkence.png" group-title="┃AL┃ ALBANIA",┃AL┃ EXPLORER SHKENCE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=220&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/exp-histori-logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ EXPLORER HISTORI
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=222&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/EXP_Natyra_AL_logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ EXPLORER NATYRA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=221&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING WORLD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=225&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING HISTORY
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=223&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="┃AL┃ ALBANIA",┃AL┃ TRING PLANET
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=224&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DISCOVERYCHANNEL.png" group-title="┃AL┃ ALBANIA",┃AL┃ DISCOVERY CHANNEL HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=227&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/DISCOVERYSCIENCE.png" group-title="┃AL┃ ALBANIA",┃AL┃ DISCOVERY SCIENCE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=228&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/NATGEO.png" group-title="┃AL┃ ALBANIA",┃AL┃ NATIONAL GEOGRAPHIC HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=230&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/doku1al.png" group-title="┃AL┃ ALBANIA",┃AL┃ DOKU 1
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677295&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SkyGALAXY.png" group-title="┃AL┃ ALBANIA",┃AL┃ SKY GALAXY
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=226&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/24Kitchen_HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ 24KITCHEN
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=231&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/living-l.png" group-title="┃AL┃ ALBANIA",┃AL┃ LIVING HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=232&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFASHIONBOX.png" group-title="┃AL┃ ALBANIA",┃AL┃ FASHION BOX HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677283&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E SHKENCA HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ E SHKENCA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189288&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E HISTORI HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ E HISTORI HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189290&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E NATYRA HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ E NATYRA HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189289&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E GJURMET SHQIPTARE HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ E GJURMET SHQIPTARE HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189291&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E 2XL HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ E 2XL HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=189300&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/CLUBTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ CLUB TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=384914&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO LOKALE ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=250&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVLIRIA.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV LIRIA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=265&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TEMATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ TEMA TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=262&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TVMITROVICA.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV MITROVICA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=260&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTVPRESHEVA.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV PRESHEVA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=256&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALB'SWISS TV HD.png" group-title="┃AL┃ ALBANIA",┃AL┃ ALB'SWISS TV HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=772484&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/besa-logo.png" group-title="┃AL┃ ALBANIA",┃AL┃ BESA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=255&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TV1CHANNELSHKODER.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV ROZAFA SHKODËR
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=261&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/STARPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ STAR PLUS SHKODËR
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=257&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KOPLIKU.png" group-title="┃AL┃ ALBANIA",┃AL┃ KOPLIKU HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=259&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/INTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ IN TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=264&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/A-MOL.png" group-title="┃AL┃ ALBANIA",┃AL┃ A-MOL TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=258&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALTVUSKANA.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV USKANA
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=676115&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ZJARRTV.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV ZJARR
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=263&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTSH_Shqip_(2020_Logo).png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH SHQIP
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=252&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALTERRATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ TERRA TV HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677312&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALKORCATV.png" group-title="┃AL┃ ALBANIA",┃AL┃ KORÇA PLUS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677310&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALTVLLAPI.png" group-title="┃AL┃ ALBANIA",┃AL┃ TV LLAPI
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677308&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALPRO1TV.png" group-title="┃AL┃ ALBANIA",┃AL┃ PRO 1 TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677306&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALRTSHPLUS.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH PLUS
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677305&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALRTSHFILM.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTSH FILM
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677304&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/AL7TV.png" group-title="┃AL┃ ALBANIA",┃AL┃ 7 TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677303&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="┃AL┃ ALBANIA",┃AL┃ STAR HD
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=677280&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/ALBFLAG.png" group-title="┃AL┃ ALBANIA",☰☰☰☰ ┃AL┃ PAKO ISLAM ☰☰☰☰
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=270&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/peacetv.png" group-title="┃AL┃ ALBANIA",┃AL┃ PEACE TV
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=280&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTVISLAM.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV ISLAM
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=281&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/RTVPENDIMI.png" group-title="┃AL┃ ALBANIA",┃AL┃ RTV PENDIMI
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=277&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/medine-tv.png" group-title="┃AL┃ ALBANIA",┃AL┃ MEDINE LIVE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=275&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/MEKKALIVE.png" group-title="┃AL┃ ALBANIA",┃AL┃ MEKKE LIVE
-http://server.stream-one.fun:80/play/live.php?mac=00:1B:79:3F:21:AC&stream=276&extension=ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/175.ts
+
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentarios",Discovery Channel HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/170.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_channel.png" group-title="Documentarios",Discovery Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/46.ts
+
+#EXTINF:-1 tvg-id="Discovery Civilization SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_civilization.png" group-title="Documentarios",Discovery Civilization SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/233.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_home_health.png" group-title="Documentarios",Discovery Home & Health SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/48.ts
+
+#EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/174.ts
+
+#EXTINF:-1 tvg-id="Discovery Investigacao SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/47.ts
+
+#EXTINF:-1 tvg-id="Discovery Science SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_science.png" group-title="Documentarios",Discovery Science SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/54.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/231.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Documentarios",Discovery Turbo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/49.ts
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_world.png" group-title="Documentarios",Discovery World HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/186.ts
+
+#EXTINF:-1 tvg-id="Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/230.ts
+
+#EXTINF:-1 tvg-id="Entertainment Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/e!.png" group-title="Documentarios",Entertainment Television SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/42.ts
+
+#EXTINF:-1 tvg-id="Fish TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fishtv.png" group-title="Documentarios",Fish TV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/110.ts
+
+#EXTINF:-1 tvg-id="History HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/168.ts
+
+#EXTINF:-1 tvg-id="History SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/history.png" group-title="Documentarios",History SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/52.ts
+
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/173.ts
+
+#EXTINF:-1 tvg-id="H2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/h2.png" group-title="Documentarios",H2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/53.ts
+
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/224.ts
+
+#EXTINF:-1 tvg-id="NatGeo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo.png" group-title="Documentarios",NatGeo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/45.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/180.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/natgeo_wild.png" group-title="Documentarios",NatGeo Wild SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/354.ts
+
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/205.ts
+
+#EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tlc.png" group-title="Documentarios",TLC SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/44.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="All Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/allsports.png" group-title="Esportes",All Sports SD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/184.ts
+
+#EXTINF:-1 tvg-id="Band Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bandsports.png" group-title="Esportes",Band Sports SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/58.ts
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/234.ts
+
+#EXTINF:-1 tvg-id="Combate SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/combate.png" group-title="Esportes",Combate SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/80.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/42.ts
+
+#EXTINF:-1 tvg-id="Esporte Interativo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ei.png" group-title="Esportes",Esporte Interativo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/67.ts
+
+#EXTINF:-1 tvg-id="EI Maxx HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/229.ts
+
+#EXTINF:-1 tvg-id="EI Maxx SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx.png" group-title="Esportes",EI Maxx SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/65.ts
+
+#EXTINF:-1 tvg-id="EI Maxx 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/204.ts
+
+#EXTINF:-1 tvg-id="EI Maxx 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/eimaxx2.png" group-title="Esportes",EI Maxx 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/66.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/203.ts
+
+#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_brasil.png" group-title="Esportes",ESPN Brasil SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/61.ts
+
+#EXTINF:-1 tvg-id="ESPN+ HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_plus.png" group-title="Esportes",ESPN+ HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/183.ts
+
+#EXTINF:-1 tvg-id="ESPN+ SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn_plus.png" group-title="Esportes",ESPN+ SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/60.ts
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/169.ts
+
+#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/espn.png" group-title="Esportes",ESPN SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/59.ts
+
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/200.ts
+
+#EXTINF:-1 tvg-id="Fox Sports SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports.png" group-title="Esportes",Fox Sports SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/63.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/201.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/foxsports2.png" group-title="Esportes",Fox Sports 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/64.ts
+
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/242.ts
+
+#EXTINF:-1 tvg-id="SporTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/55.ts
+
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/244.ts
+
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/56.ts
+
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/243.ts
+
+#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sportv.png" group-title="Esportes",SporTV 3 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/57.ts
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/221.ts
+
+#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere Clubes SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/71.ts
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/217.ts
+
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/72.ts
+
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/216.ts
+
+#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 3 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/73.ts
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/215.ts
+
+#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 4 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/74.ts
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/214.ts
+
+#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 5 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/75.ts
+
+#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 6 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/76.ts
+
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 7 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/77.ts
+
+#EXTINF:-1 tvg-id="Premiere 8 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 8 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/78.ts
+
+#EXTINF:-1 tvg-id="Premiere 9 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/premiere.png" group-title="Esportes",Premiere 9 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/79.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/1336.ts
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/176.ts
+
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/41.ts
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/211.ts
+
+#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/axn.png" group-title="Filmes & Series",AXN SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/29.ts
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/187.ts
+
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cinemax.png" group-title="Filmes & Series",Cinemax SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/31.ts
+
+#EXTINF:-1 tvg-id="Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/comedy_central.png" group-title="Filmes & Series",Comedy Central SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/111.ts
+
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/202.ts
+
+#EXTINF:-1 tvg-id="Fox SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox.png" group-title="Filmes & Series",Fox SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/20.ts
+
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/857.ts
+
+#EXTINF:-1 tvg-id="Fox Life SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_life.png" group-title="Filmes & Series",Fox Life SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/43.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/228.ts
+
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fox_premium.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/593.ts
+
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/177.ts
+
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/fx.png" group-title="Filmes & Series",FX SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/27.ts
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/198.ts
+
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo.png" group-title="Filmes & Series",HBO SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/14.ts
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/182.ts
+
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo2.png" group-title="Filmes & Series",HBO 2 SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/15.ts
+
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/197.ts
+
+#EXTINF:-1 tvg-id="HBO Plus SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus.png" group-title="Filmes & Series",HBO Plus SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/18.ts
+
+#EXTINF:-1 tvg-id="HBO Plus *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_plus_e.png" group-title="Filmes & Series",HBO Plus *e SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/568.ts
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/172.ts
+
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_family.png" group-title="Filmes & Series",HBO Family SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/17.ts
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Series",HBO Signature HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/196.ts
+
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hbo_signature.png" group-title="Filmes & Series",HBO Signature SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/16.ts
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/844.ts
+
+#EXTINF:-1 tvg-id="Lifetime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/lifetime.png" group-title="Filmes & Series",Lifetime SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/570.ts
+
+#EXTINF:-1 tvg-id="Max HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/185.ts
+
+#EXTINF:-1 tvg-id="Max SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max.png" group-title="Filmes & Series",Max SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/111.ts
+
+#EXTINF:-1 tvg-id="Max UP HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/25.ts
+
+#EXTINF:-1 tvg-id="Max UP SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_up.png" group-title="Filmes & Series",Max UP SD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/66.ts
+
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/841.ts
+
+#EXTINF:-1 tvg-id="Max Prime SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime.png" group-title="Filmes & Series",Max Prime SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/24.ts
+
+#EXTINF:-1 tvg-id="Max Prime *e SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/max_prime_e.png" group-title="Filmes & Series",Max Prime *e SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/571.ts
+
+#EXTINF:-1 tvg-id="MegaPix HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/225.ts
+
+#EXTINF:-1 tvg-id="MegaPix SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/megapix.png" group-title="Filmes & Series",MegaPix SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/19.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/847.ts
+
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalbrasil.png" group-title="Filmes & Series",Canal Brasil SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/112.ts
+
+#EXTINF:-1 tvg-id="Paramount HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/171.ts
+
+#EXTINF:-1 tvg-id="Paramount SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/paramount.png" group-title="Filmes & Series",Paramount SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/34.ts
+
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Series",Sony HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/209.ts
+
+#EXTINF:-1 tvg-id="Sony SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sony.png" group-title="Filmes & Series",Sony SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/28.ts
+
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Series",Space HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/194.ts
+
+#EXTINF:-1 tvg-id="Space SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/space.png" group-title="Filmes & Series",Space SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/21.ts
+
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/845.ts
+
+#EXTINF:-1 tvg-id="Syfy SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/syfy.png" group-title="Filmes & Series",Syfy SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/102.ts
+
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/873.ts
+
+#EXTINF:-1 tvg-id="Studio Universal SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/studio_universal.png" group-title="Filmes & Series",Studio Universal SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/32.ts
+
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/714.ts
+
+#EXTINF:-1 tvg-id="TBS SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tbs.png" group-title="Filmes & Series",TBS SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/33.ts
+
+#EXTINF:-1 tvg-id="TCM SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tcm.png" group-title="Filmes & Series",TCM SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/35.ts
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Series",TNT HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/188.ts
+
+#EXTINF:-1 tvg-id="TNT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt.png" group-title="Filmes & Series",TNT SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/30.ts
+
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Series",TNT Series HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/223.ts
+
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tnt_series.png" group-title="Filmes & Series",TNT Series SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/101.ts
+
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/193.ts
+
+#EXTINF:-1 tvg-id="Telecine Action SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="Filmes & Series",Telecine Action SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/9.ts
+
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Series",Telecine Pipoca HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/191.ts
+
+#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_pipoca.png" group-title="Filmes & Series",Telecine Pipoca SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/11.ts
+
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Series",Telecine Premium HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/190.ts
+
+#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_premium.png" group-title="Filmes & Series",Telecine Premium SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/8.ts
+
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Series",Telecine Fun HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/192.ts
+
+#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_fun.png" group-title="Filmes & Series",Telecine Fun SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/10.ts
+
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/241.ts
+
+#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Filmes & Series",Telecine Cult SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/13.ts
+
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Series",Telecine Touch HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/189.ts
+
+#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="Filmes & Series",Telecine Touch SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/12.ts
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Series",Universal Channel HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/222.ts
+
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/universal_channel.png" group-title="Filmes & Series",Universal Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/22.ts
+
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Series",Warner Channel HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/178.ts
+
+#EXTINF:-1 tvg-id="Warner Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/warner_channel.png" group-title="Filmes & Series",Warner Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/26.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/777.ts
+
+#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/cartoon_network.png" group-title="Infantil",Cartoon Network SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/82.ts
+
+#EXTINF:-1 tvg-id="Boomerang SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/boomerang.png" group-title="Infantil",Boomerang SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/89.ts
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/851.ts
+
+#EXTINF:-1 tvg-id="Disney Channel SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_channel.png" group-title="Infantil",Disney Channel SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/86.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/852.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_kids.png" group-title="Infantil",Discovery Kids SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/88.ts
+
+#EXTINF:-1 tvg-id="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_junior.png" group-title="Infantil",Disney Junior SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/84.ts
+
+#EXTINF:-1 tvg-id="Disney XD SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/disney_xd.png" group-title="Infantil",Disney XD SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/85.ts
+
+#EXTINF:-1 tvg-id="Gloob HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/853.ts
+
+#EXTINF:-1 tvg-id="Gloob SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gloob.png" group-title="Infantil",Gloob SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/81.ts
+
+#EXTINF:-1 tvg-id="Nick Junior SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick_jr.png" group-title="Infantil",Nick Junior SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/87.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/872.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/nick.png" group-title="Infantil",Nickelodeon SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/83.ts
+
+#EXTINF:-1 tvg-id="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tooncast.png" group-title="Infantil",Tooncast SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/97.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/592.ts
+
+#EXTINF:-1 tvg-id="Band SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/5.ts
+
+#EXTINF:-1 tvg-id="Band News HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/857.ts
+
+#EXTINF:-1 tvg-id="Band News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band_news.png" group-title="Jornalismo",Band News SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/70.ts
+
+#EXTINF:-1 tvg-id="BH News TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/bhnews_tv.png" group-title="Jornalismo",BH News TV SD
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/856.ts
+
+#EXTINF:-1 tvg-id="GloboNews SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globonews.png" group-title="Jornalismo",GloboNews SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/68.ts
+
+#EXTINF:-1 tvg-id="Globo HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/599.ts
+
+#EXTINF:-1 tvg-id="Globo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/globo.png" group-title="Jornalismo",Globo SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/567.ts
+
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/422.ts
+
+#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="Jornalismo",Record SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/6.ts
+
+#EXTINF:-1 tvg-id="Record News SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record_news.png" group-title="Jornalismo",Record News SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/69.ts
+
+#EXTINF:-1 tvg-id="RedeTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/604.ts
+
+#EXTINF:-1 tvg-id="RedeTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/redetv.png" group-title="Jornalismo",RedeTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/4.ts
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/594.ts
+
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/sbt.png" group-title="Jornalismo",SBT SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/3.ts
+
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tvcultura.png" group-title="Jornalismo",TV Cultura SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/1.ts
+
+#EXTINF:-1 tvg-id="Futura SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/canalfutura.png" group-title="Jornalismo",Futura SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/7.ts
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/212.ts
+
+#EXTINF:-1 tvg-id="Viva SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/viva.png" group-title="Jornalismo",Viva SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/36.ts
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/1hd.png" group-title="Musicas",1HD Music HD
+http://bonus-tv.ru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Musicas",DJing Ibiza SD
+http://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Musicas",Gospel Music Television SD
+http://85.94.1.9:8802/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:-1 tvg-id="Heart TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/heartv.png" group-title="Musicas",Heart TV SD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Hit TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/hittv.png" group-title="Musicas",Hit TV SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mimusica.png" group-title="Musicas",MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="Mix TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mixtv.png" group-title="Musicas",Mix TV SD
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/219.ts
+
+#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/mtv.png" group-title="Musicas",MTV SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/38.ts
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/181.ts
+
+#EXTINF:-1 tvg-id="Multishow SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/multishow.png" group-title="Musicas",Multishow SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/39.ts
+
+#EXTINF:-1 tvg-id="Muz TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/muztv.png" group-title="Musicas",Muz TV SD
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#EXTINF:-1 tvg-id="Radio Monte Carlo SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/radiomontecarlo.png" group-title="Musicas",Radio Monte Carlo SD
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+
+#EXTINF:-1 tvg-id="Retro Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/retromusictv.png" group-title="Musicas",Retro Music Television SD
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/slam.png" group-title="Musicas",SLAM TV HD
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+
+#EXTINF:-1 tvg-id="Virgin TV SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/virgintv.png" group-title="Musicas",Virgin TV SD
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VH1 MegaHits HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits HD
+http://iptv.servidorfull.com:8081/live/Sab2/PHIMXfqt0L/855.ts
+
+#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/vh1.png" group-title="Musicas",VH1 MegaHits SD
+http://iptvbrasil1.ddns.net:8080/live/play/play/98.ts
+
+#################################################################################
